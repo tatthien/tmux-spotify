@@ -16,7 +16,7 @@ Press `prefix` + `I` to fetch the plugin and source it.
 
 ## Usage
 
-Add `#{spotify}` somewhere that you prefer in the righ status line:
+Add `#{spotify}` somewhere that you prefer in the right status line:
 
 ```
 set-option -g status-right "#{spotify}"
