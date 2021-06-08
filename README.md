@@ -23,3 +23,10 @@ set-option -g status-right "#{spotify}"
 ```
 
 Then you'll see something like `♫ Artist name - Track name` in the status line.
+
+## Credit
+
+This plugin cannot go live without helps from existent plugins/scripts.
+
+- [tmux-weather](https://github.com/xamut/tmux-weather)
+- [tmux-spotify-info](https://github.com/jdxcode/tmux-spotify-info)
