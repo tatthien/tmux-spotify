@@ -1,5 +1,7 @@
 # Spotify plugin for tmux
 
+![2021-06-08 20 11 42](https://user-images.githubusercontent.com/72242664/121208487-4bfd1100-c8a4-11eb-98a0-8d8c638226f2.gif)
+
 ## Installation
 
 ### Using Tmux Plugin Manager
